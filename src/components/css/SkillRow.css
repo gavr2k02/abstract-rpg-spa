@@ -1,0 +1,31 @@
+.text-skill {
+    font-size: 20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.line {
+    height: 1px;
+    border: none;
+}
+
+.red {
+    background-color: rgba(255, 99, 132, 1);
+}
+
+.green {
+    background-color: rgba(75, 192, 192, 1);
+}
+
+.orange {
+    background-color: rgba(255, 159, 64, 1);
+}
+
+.skill-name {
+    display: flex;
+}
+
+.icon-skill {
+    width: 36px;
+    height: 36px;
+}

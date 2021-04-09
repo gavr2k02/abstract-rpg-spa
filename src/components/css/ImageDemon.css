@@ -1,0 +1,9 @@
+.content {
+    background-image: url(../../assests/img/demon.jpeg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    height: 160px;
+}

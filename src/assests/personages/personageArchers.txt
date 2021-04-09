@@ -1,0 +1,30 @@
+{
+    "name": "Лучник",
+    "baseParametrs": {
+        "power": 5,
+        "agility": 15,
+        "intelligence": 10,
+        "charisma": 15
+    },
+    "characteristic": {
+        "lifeForce": 8,
+        "evasion": 15,
+        "energy": 25
+    },
+    "powerSkills": [{ "name": "Атака", "lvl": 3 }],
+    "agilitySkills": [
+        { "name": "Стелс", "lvl": 5 },
+        { "name": "Стрельба", "lvl": 5 }
+    ],
+    "intelligenceSkills": [
+        { "name": "Обучаемость", "lvl": 4 },
+        { "name": "Выживание", "lvl": 3 },
+        { "name": "Медицина", "lvl": 3 }
+    ],
+    "charismaSkills": [
+        { "name": "Запугивание", "lvl": 2 },
+        { "name": "Проницательность", "lvl": 4 },
+        { "name": "Внешний вид", "lvl": 4 },
+        { "name": "Манипулирование", "lvl": 1 }
+    ]
+}

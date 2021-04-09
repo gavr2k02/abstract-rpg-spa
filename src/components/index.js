@@ -1,0 +1,13 @@
+export { default as Header } from "./Header";
+export { default as Hero } from "./Hero";
+export { default as Parametrs } from "./Parametrs";
+export { default as Props } from "./Props";
+export { default as ImageDemon } from "./ImageDemon";
+export { default as Skills } from "./Skills";
+export { default as SkillRowPower } from "./SkillRowPower";
+export { default as SkillRowAgility } from "./SkillRowAgility";
+export { default as SkillRowIntelligence } from "./SkillRowIntelligence";
+export { default as SkillRowCharisma } from "./SkillRowCharisma";
+export { default as Buttons } from "./Buttons";
+export { default as ButtonExport } from "./ButtonExport";
+export { default as ButtonImport } from "./ButtonImport";
